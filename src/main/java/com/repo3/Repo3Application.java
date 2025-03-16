@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Repo3Application {
 
 	public static void main(String[] args) {
+		
+		String name = "mike";
 		int x = 100;
+
 		SpringApplication.run(Repo3Application.class, args);
 	}
 
