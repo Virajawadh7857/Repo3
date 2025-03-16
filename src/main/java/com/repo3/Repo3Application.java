@@ -10,6 +10,7 @@ public class Repo3Application {
 		
 		String name = "mike";
 		int x = 100;
+		int y= 200 ;
 
 		SpringApplication.run(Repo3Application.class, args);
 	}
